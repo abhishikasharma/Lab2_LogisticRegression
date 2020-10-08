@@ -2,6 +2,8 @@
 
 We are implementing Logistic Regression on the Titanic Dataset. We have created a detailed video on how Logistic reggression works and how to implement it on the Titanic Dataset. Later on we want you guys to try on your own to implement Logistic regression on the Suvdata dataset.
 
+The main task is what factors made people more interesting in buying SUV
+
 What is Logistic regression in python? 
 It is a technique to analyse a data-set which has a dependent variable and one or more independent variables to predict the outcome in a binary variable, meaning it will have only two outcomes. Example- yes or no
 

@@ -1,9 +1,5 @@
 # Lab2_LogisticRegression
 
-We are implementing Logistic Regression on the Titanic Dataset. We have created a detailed video on how Logistic Regression works and how to implement it on the Titanic Dataset. Later on we want you guys to try on your own to implement Logistic regression on the Suvdata dataset.
-
-### The main task is what factors made people more interesting in buying SUV??
-
 What is Logistic regression in python? <br> 
 It is a technique to analyse a data-set which has a dependent variable and one or more independent variables to predict the outcome in a binary variable, meaning it will have only two outcomes. <br>
 Example- <br>
@@ -34,6 +30,21 @@ Steps for logistic regression:
 3. Data Wrangling
 4. Train and Test                      
 5. Accuracy Report
+
+
+In this Lab Guide, you will find two tasks:
+### 1. Task 1:<br>
+Implemention of Logistic Regression using Titanic_Survival.csv dataset. The dataset is already provided on GitHub. <br>
+Titanic_LogisticRegression.ipynb - It contains all the code for implementing Logistic Regression on Titanic Dataset. <br>
+LogisticRegression_Titanic_Dataset.mp4 - The detailed tutorial video explaning the above dataset and how to perform LogisticRegression.<br>
+
+
+### 2. Task 2: <br>
+Try to implement Logistic Regression on the Suvdata dataset taking reference from Task 1.  
+
+### Question : You have to find out what factors made people more interesting in buying SUV?
+
+
 
 
 

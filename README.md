@@ -4,12 +4,12 @@ We are implementing Logistic Regression on the Titanic Dataset. We have created 
 
 ### The main task is what factors made people more interesting in buying SUV??
 
-What is Logistic regression in python? 
-It is a technique to analyse a data-set which has a dependent variable and one or more independent variables to predict the outcome in a binary variable, meaning it will have only two outcomes. 
+What is Logistic regression in python? <br> 
+It is a technique to analyse a data-set which has a dependent variable and one or more independent variables to predict the outcome in a binary variable, meaning it will have only two outcomes. <br>
 Example- <br>
-yes or no
-1 or 0
-True or False
+yes or no <br>
+1 or 0 <br>
+True or False <br>
 
 #### Use Cases
 
@@ -23,8 +23,8 @@ Following are the use cases where we can use logistic regression.
 2. Determining Illness is also one of the use cases used in logical regression. 
 
 
-Dependent variable - target variable
-Independent variables -  predictors
+Dependent variable - target variable <br>
+Independent variables -  predictors <br>
 
 
 Steps for logistic regression:

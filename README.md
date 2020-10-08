@@ -32,11 +32,12 @@ Independent variables -  predictors <br>
 5. Accuracy Report
 
 
-In this Lab Guide, you will find two tasks:
+### In this Lab Guide, you will find two tasks:
 ### 1. Task 1:<br>
+This task shows you how to implement Logictic Regression.
 Implemention of Logistic Regression using Titanic_Survival.csv dataset. The dataset is already provided on GitHub. <br>
-Titanic_LogisticRegression.ipynb - It contains all the code for implementing Logistic Regression on Titanic Dataset. <br>
-LogisticRegression_Titanic_Dataset.mp4 - The detailed tutorial video explaning the above dataset and how to perform LogisticRegression.<br>
+1. Titanic_LogisticRegression.ipynb - It contains all the code for implementing Logistic Regression on Titanic Dataset. <br>
+2. LogisticRegression_Titanic_Dataset.mp4 - The detailed tutorial video explaning the above dataset and how to perform LogisticRegression.<br>
 
 
 ### 2. Task 2: <br>
